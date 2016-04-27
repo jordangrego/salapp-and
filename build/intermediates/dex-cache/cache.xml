@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_45bae0388042f56e0e05fdd9b95fea573847c653\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_d9d9e135d7a1e10125348383bc2913b371c3451e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jordan.silva\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_66840bf6a9f2f76f8453350537f4600d2b242a87\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_05987c6b7aaf0c7ac77cd180a6871fb1e6409af3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a4d525b061a3ebbfd5e4fcc8eaf728690d76119">
+        <dex dex="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_97e5ee8a99b67d6c08035b24f51998aebbf3db1e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_b9eeb83f79a9d6596069fa8ed4395eff1fa48086\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_33629faf3271ed903cb3be235428fb69ff704f5e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20e60c34c927ff790133bad18d6bb89e97426097">
+        <dex dex="C:\Users\jordan.silva\Documents\GitHub\SalappAnd\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_280063eb1b2e37390bfe16cd76ffbe5162d07355\classes.dex" />
+    </item>
+
+</items>
